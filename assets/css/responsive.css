@@ -1,14 +1,8 @@
-/*
-* ----------------------------------------------------------------------------------------
-Author       : Tanvir Hossain
-Template Name: Wize - Creative Personal Portfolio
-Version      : 1.0                                          
-* ----------------------------------------------------------------------------------------
-*/
 
 
 
-/* Medium Layout: 1280px. */
+
+
 
 @media only screen and (min-width: 992px) and (max-width: 1280px) {
     .hero-content {
@@ -27,8 +21,6 @@ Version      : 1.0
     }
 }
 
-
-/* Tablet Layout: 768px. */
 
 @media only screen and (min-width: 767px) and (max-width: 991px) {
 
